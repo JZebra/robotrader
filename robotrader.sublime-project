@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/johnshen/src/robotrader"
+		}
+	],
+    "settings":
+    {
+        "ensure_newline_at_eof_on_save": true,
+        "folder_exclude_patterns": ["node_modules", "build", ".git"],
+        "save_on_focus_lost": true,
+        "show_full_path": true,
+        "tab_size": true,
+        "translate_tabs_to_spaces": true,
+        "trim_automatic_white_space": true,
+        "trim_trailing_white_space_on_save": true
+    }
+}
